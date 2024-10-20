@@ -29,6 +29,8 @@
 *.csv
 *.pth
 
+/pytorch_youtube_eng/data/
+
 # recommendation system
 venv
 output/

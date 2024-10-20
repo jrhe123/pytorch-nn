@@ -11,3 +11,7 @@
 - conda create -n pytorch python=3.7
 - conda activate pytorch
 - conda install pytorch torchvision -c pytorch
+
+### tensorboard
+
+- tensorboard --logdir=p15 --port=6006

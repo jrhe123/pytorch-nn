@@ -1,3 +1,11 @@
+### video: (bert / transformer / self-attention)
+
+- Query / Key / Value
+- scaled dot-product attention 内积
+- softmax
+
+- https://www.bilibili.com/video/BV1tm4y187b5?p=92&vd_source=5b38429dc2a3c27f4efb082ccdfe871a
+
 1. 卷积：提取特征
 2. 池化：压缩特征
 
